@@ -11,6 +11,7 @@
 int main(int ac, char **av)
 {
 	int i = 0;
+	(void)ac;
 
 	while (av[i])
 	{
